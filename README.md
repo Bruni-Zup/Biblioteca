@@ -1,0 +1,1 @@
+Este projeto é um sistema simples de gerenciamento de biblioteca, onde é possível cadastrar livros e usuários, realizar empréstimos e devoluções, e visualizar os livros disponíveis. A implementação foi feita em Java, utilizando classes para representar livros, usuários e a biblioteca em si.
